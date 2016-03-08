@@ -8,7 +8,7 @@ It's rows denote different movies and columns show categories of these movies.
 
 3. "UserXmovie.csv" is the user-item rating matrix in binary format.
 
-4. Matlab code for Sem-Joint Matrix Factorization is given in "jointmff_m.m"
+4. Matlab code for Sem-Joint Matrix Factorization is given in "jointmff_m.m". JMF was originally developed by Yue Shi in 2013.
 
 5. "testing_final_m.m" file has testing code.
 
